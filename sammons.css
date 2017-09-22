@@ -2,7 +2,9 @@ ul ul, ol ul {
     list-style-type: disc !important;
 }
 
-
+body {
+    background-color: #ff0000;
+}
 
 .aui h2 {   
     padding-bottom: 0px; 
