@@ -1,0 +1,23 @@
+ul ul, ol ul {
+    list-style-type: disc !important;
+}
+
+.aui h2 {   
+    padding-bottom: 0px; 
+    padding-left: 0 !important;
+    font-size: 16px; 
+    color: #223e7b; 
+    border-bottom: 1px solid #cecece;
+}
+
+.sfgwebform-portlet p.format-paragraph {
+    margin-bottom: 20px !important;
+}
+
+.layout-adt-50w {
+    position: relative;
+}
+
+.aui li {
+    line-height: 18px !important;
+}
